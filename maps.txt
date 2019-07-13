@@ -1,0 +1,5 @@
+level1 Maps/level1.txt
+level2 Maps/level2.txt
+level3 Maps/level3.txt
+level4 Maps/level4.txt
+level5 Maps/level5.txt
